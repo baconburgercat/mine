@@ -34,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SPFZaTJoCdP7Llb2xja--26" connectable="0" parent="SPFZaTJoCdP7Llb2xja--9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" value="Order,&amp;nbsp;&lt;div&gt;POS Sales&lt;/div&gt;" vertex="1">
+        <mxCell id="SPFZaTJoCdP7Llb2xja--26" connectable="0" parent="SPFZaTJoCdP7Llb2xja--9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;labelBackgroundColor=default;" value="Order,&amp;nbsp;&lt;div&gt;POS Sales&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.08" as="geometry">
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
